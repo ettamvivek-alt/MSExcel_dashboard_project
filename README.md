@@ -5,6 +5,7 @@ Excited to share my first end-to-end data analytics project where I designed an 
 ![image alt](https://github.com/ettamvivek-alt/MSExcel_dashboard_project/blob/7b2db77fde4ad27ce74bbafe1b90ae97f6dea6b4/Screenshot%202026-02-05%20143241.png)
 
 
+
 # Key Insights:
 ______________________________________________________________________________________________________________________________________________
 Women contribute 64% of total sales
