@@ -2,6 +2,7 @@
 Store Annual Report Dashboard
 
 Excited to share my first end-to-end data analytics project where I designed an interactive annual sales dashboard to analyze store performance. 
+![image alt]([image_url](https://github.com/ettamvivek-alt/MSExcel_dashboard_project/blob/7b2db77fde4ad27ce74bbafe1b90ae97f6dea6b4/Screenshot%202026-02-05%20143241.png))
 Key Insights:
 
 Women contribute 64% of total sales
